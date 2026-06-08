@@ -1,0 +1,277 @@
+[
+  {
+    "id": "demo001",
+    "name": "OBS Studio",
+    "version": "30.2",
+    "releaseDate": "2025-03-15",
+    "description": "免费开源录屏直播软件，支持多场景切换、虚拟摄像头、滤镜和插件扩展，是直播和录屏的首选工具。",
+    "category": "视频工具",
+    "tags": ["录屏", "直播", "免费", "开源"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "🎬",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_obs_studio", "extractCode": "a1b2" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_obs_studio", "extractCode": "6666" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_obs_studio" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo002",
+    "name": "DaVinci Resolve",
+    "version": "19.0",
+    "releaseDate": "2025-02-20",
+    "description": "好莱坞级专业视频剪辑与调色软件，免费版功能已非常强大，支持8K剪辑、Fusion特效和Fairlight音频处理。",
+    "category": "视频工具",
+    "tags": ["剪辑", "调色", "免费", "专业"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "🎞️",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_davinci", "extractCode": "c3d4" },
+      { "platform": "迅雷网盘", "url": "https://pan.xunlei.com/s/demo_davinci", "extractCode": "8888" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo003",
+    "name": "剪映专业版",
+    "version": "6.0",
+    "releaseDate": "2025-04-10",
+    "description": "抖音官方视频剪辑工具，内置丰富模板、智能字幕、AI配音等功能，小白也能快速出片。",
+    "category": "视频工具",
+    "tags": ["剪辑", "字幕", "免费", "模板"],
+    "platforms": ["Windows", "macOS"],
+    "icon": "✂️",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_jianying", "extractCode": "e5f6" },
+      { "platform": "UC网盘", "url": "https://drive.uc.cn/s/demo_jianying", "extractCode": "1234" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_jianying", "extractCode": "7777" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo004",
+    "name": "GIMP",
+    "version": "2.10.38",
+    "releaseDate": "2025-01-28",
+    "description": "免费开源图片编辑器，被誉为Photoshop的最佳替代品，支持图层、通道、滤镜、路径等专业功能。",
+    "category": "图片工具",
+    "tags": ["修图", "免费", "开源", "PS替代"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "🎨",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_gimp", "extractCode": "g7h8" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_gimp" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo005",
+    "name": "IrfanView",
+    "version": "4.66",
+    "releaseDate": "2024-12-15",
+    "description": "轻量级图片查看和批量处理工具，启动极快，支持100+图片格式，批量重命名、调整大小、格式转换一键搞定。",
+    "category": "图片工具",
+    "tags": ["查看", "批量", "免费", "轻量"],
+    "platforms": ["Windows"],
+    "icon": "🖼️",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_irfanview", "extractCode": "i9j0" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_irfanview" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo006",
+    "name": "VS Code",
+    "version": "1.90",
+    "releaseDate": "2025-05-01",
+    "description": "微软开源代码编辑器，支持智能补全、调试、Git集成、终端和海量插件，前端开发必备神器。",
+    "category": "开发工具",
+    "tags": ["编辑器", "免费", "开源", "插件"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "💻",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_vscode", "extractCode": "v1k2" },
+      { "platform": "迅雷网盘", "url": "https://pan.xunlei.com/s/demo_vscode", "extractCode": "5555" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_vscode", "extractCode": "9999" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo007",
+    "name": "7-Zip",
+    "version": "24.03",
+    "releaseDate": "2024-11-20",
+    "description": "免费开源压缩解压工具，支持7z、ZIP、RAR等格式，压缩率极高，右键菜单集成方便快捷。",
+    "category": "系统工具",
+    "tags": ["压缩", "免费", "开源"],
+    "platforms": ["Windows", "Linux"],
+    "icon": "📦",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_7zip", "extractCode": "7z01" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_7zip" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo008",
+    "name": "PotPlayer",
+    "version": "1.7.22077",
+    "releaseDate": "2025-03-05",
+    "description": "强大的本地视频播放器，支持几乎所有视频格式，硬解/软解切换流畅，内置字幕加载和3D视频支持。",
+    "category": "影音工具",
+    "tags": ["播放器", "免费", "硬解"],
+    "platforms": ["Windows"],
+    "icon": "▶️",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_potplayer", "extractCode": "p3q4" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_potplayer", "extractCode": "3333" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo009",
+    "name": "STranslate",
+    "version": "2.0.7",
+    "releaseDate": "2025-04-18",
+    "description": "多引擎翻译工具，支持截图翻译、划词翻译、OCR识别，聚合DeepL、百度、有道等多个翻译引擎。",
+    "category": "效率工具",
+    "tags": ["翻译", "截图", "免费", "OCR"],
+    "platforms": ["Windows"],
+    "icon": "🌐",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_stranslate", "extractCode": "s5t6" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_stranslate" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo010",
+    "name": "uTools",
+    "version": "5.2.0",
+    "releaseDate": "2025-05-20",
+    "description": "高效桌面效率工具箱，Alt+呼出，内置插件市场，支持翻译、计算、取色、二维码、文件搜索等数百个插件。",
+    "category": "效率工具",
+    "tags": ["效率", "插件", "免费", "快捷"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "⚡",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_utools", "extractCode": "u7v8" },
+      { "platform": "迅雷网盘", "url": "https://pan.xunlei.com/s/demo_utools", "extractCode": "2222" },
+      { "platform": "UC网盘", "url": "https://drive.uc.cn/s/demo_utools", "extractCode": "4444" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo011",
+    "name": "7000+ 高清旅游航拍素材",
+    "version": "2025版",
+    "releaseDate": "2025-05-01",
+    "description": "涵盖全球热门景点航拍视频素材，4K/8K分辨率，适合短视频混剪、旅行Vlog和宣传片制作。",
+    "category": "素材资源",
+    "tags": ["航拍", "4K", "免费", "视频素材"],
+    "platforms": ["全平台"],
+    "icon": "🎥",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_aerial_video", "extractCode": "a9b0" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_aerial_video", "extractCode": "1111" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo012",
+    "name": "450+ 推文爆款BGM音乐合集",
+    "version": "2025版",
+    "releaseDate": "2025-04-15",
+    "description": "精选抖音/小红书爆款短视频背景音乐，覆盖励志、伤感、欢快、古风等风格，40G大容量。",
+    "category": "素材资源",
+    "tags": ["BGM", "爆款", "免费", "音乐"],
+    "platforms": ["全平台"],
+    "icon": "🎵",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_bgm_music", "extractCode": "b1c2" },
+      { "platform": "迅雷网盘", "url": "https://pan.xunlei.com/s/demo_bgm_music", "extractCode": "6666" },
+      { "platform": "UC网盘", "url": "https://drive.uc.cn/s/demo_bgm_music", "extractCode": "8888" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo013",
+    "name": "ChatGPT 桌面客户端",
+    "version": "1.2025",
+    "releaseDate": "2025-05-25",
+    "description": "非官方ChatGPT桌面客户端，支持系统托盘、快捷键唤醒、多会话管理、Markdown渲染和代码高亮。",
+    "category": "AI工具",
+    "tags": ["AI", "ChatGPT", "免费", "桌面端"],
+    "platforms": ["Windows", "macOS"],
+    "icon": "🤖",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_chatgpt_desktop", "extractCode": "c3d4" },
+      { "platform": "蓝奏云", "url": "https://wwa.lanzoui.com/demo_chatgpt_desktop" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo014",
+    "name": "FDM (Free Download Manager)",
+    "version": "6.22",
+    "releaseDate": "2025-02-10",
+    "description": "免费开源多线程下载工具，支持HTTP/HTTPS/FTP/BT/磁力链，下载速度比浏览器快3-5倍。",
+    "category": "系统工具",
+    "tags": ["下载", "免费", "开源", "加速"],
+    "platforms": ["Windows", "macOS", "Linux"],
+    "icon": "⬇️",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_fdm", "extractCode": "f5g6" },
+      { "platform": "百度网盘", "url": "https://pan.baidu.com/s/demo_fdm", "extractCode": "abcd" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo015",
+    "name": "690款 虚拟演播厅直播背景",
+    "version": "合集",
+    "releaseDate": "2025-03-28",
+    "description": "高清虚拟演播厅背景图/视频素材，适合新闻播报、知识分享、企业宣传等直播场景，绿幕抠像完美适配。",
+    "category": "素材资源",
+    "tags": ["直播", "背景", "演播厅", "免费"],
+    "platforms": ["全平台"],
+    "icon": "📺",
+    "downloadLinks": [
+      { "platform": "夸克网盘", "url": "https://pan.quark.cn/s/demo_studio_bg", "extractCode": "h7i8" },
+      { "platform": "迅雷网盘", "url": "https://pan.xunlei.com/s/demo_studio_bg", "extractCode": "efgh" }
+    ],
+    "isActive": true,
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  }
+]
