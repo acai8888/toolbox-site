@@ -6,6 +6,7 @@ import { Heart } from "lucide-react";
 import { quickTools } from "@/data/tools";
 import { useUser } from "@/hooks/useUser";
 import { useFavorites } from "@/hooks/useFavorites";
+import AdBanner from "@/components/AdBanner";
 
 export default function ToolsPage() {
   const { user } = useUser();
@@ -44,7 +45,10 @@ export default function ToolsPage() {
         <p className="text-muted mt-2">免费在线工具，无需安装，打开即用</p>
       </div>
 
-      {categories.map((cat) => (
+      {/* 广告位 - 页面顶部 */}
+      <AdBanner slot="tools-top" format="horizontal" />
+
+      {categories.map((cat, catIndex) => (
         <section key={cat} className="mb-10">
           <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
             <span className="w-1.5 h-6 bg-primary rounded-full" />
@@ -107,6 +111,11 @@ export default function ToolsPage() {
                 );
               })}
           </div>
+
+          {/* 广告位 - 在第一个分类后插入 */}
+          {catIndex === 0 && (
+            <AdBanner slot="tools-mid" format="horizontal" />
+          )}
         </section>
       ))}
     </div>

@@ -9,7 +9,7 @@ interface AdBannerProps {
   className?: string;
 }
 
-export function AdBanner({ slot = "auto", format = "horizontal", className = "" }: AdBannerProps) {
+export default function AdBanner({ slot = "auto", format = "horizontal", className = "" }: AdBannerProps) {
   const adClient = "ca-pub-XXXXXXXXXXXXXXXX";
 
   const sizeClass = {

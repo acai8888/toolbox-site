@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import { useReviews, Review } from "@/hooks/useReviews";
 import { useUser } from "@/hooks/useUser";
+import AdBanner from "@/components/AdBanner";
 
 interface DownloadLink {
   platform: string;
@@ -424,6 +425,9 @@ export default function ResourcesPage() {
         <p className="text-muted mt-2">精选免费软件、素材和教程资源</p>
       </div>
 
+      {/* 广告位 - 页面顶部 */}
+      <AdBanner slot="resources-top" format="horizontal" />
+
       {/* Search & Filter */}
       <div className="flex flex-col sm:flex-row gap-4 mb-8">
         <div className="relative flex-1">
@@ -585,6 +589,9 @@ export default function ResourcesPage() {
           ))}
         </div>
       )}
+
+      {/* 广告位 - 资源列表与评论之间 */}
+      <AdBanner slot="resources-mid" format="horizontal" />
 
       {/* Review Section */}
       <ReviewSection />
