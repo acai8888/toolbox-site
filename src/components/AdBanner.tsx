@@ -10,7 +10,7 @@ interface AdBannerProps {
 }
 
 export default function AdBanner({ slot = "auto", format = "horizontal", className = "" }: AdBannerProps) {
-  const adClient = "ca-pub-XXXXXXXXXXXXXXXX";
+  const adClient = "ca-pub-1599694653131171";
 
   const sizeClass = {
     horizontal: "w-full h-24 md:h-[90px]",
