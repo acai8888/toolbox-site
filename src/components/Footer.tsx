@@ -14,6 +14,8 @@ export default function Footer() {
             <Link href="/tools" className="hover:text-primary transition-colors">在线工具</Link>
             <Link href="/resources" className="hover:text-primary transition-colors">资源下载</Link>
             <Link href="/nav" className="hover:text-primary transition-colors">导航推荐</Link>
+            <Link href="/about" className="hover:text-primary transition-colors">关于我们</Link>
+            <Link href="/privacy" className="hover:text-primary transition-colors">隐私政策</Link>
           </div>
           <p className="text-xs text-muted">
             &copy; {new Date().getFullYear()} 万能工具箱

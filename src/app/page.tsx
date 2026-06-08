@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { homeCategories, announcements } from "@/data/tools";
+import AdBanner from "@/components/AdBanner";
 import {
   Search,
   ExternalLink,
@@ -165,6 +166,11 @@ export default function Home() {
         </div>
       </section>
 
+      {/* 广告位 - 标题下方 */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdBanner slot="home-top" format="horizontal" />
+      </div>
+
       {/* 四栏分类矩阵 */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-5">
@@ -189,6 +195,9 @@ export default function Home() {
 
       {/* ===== 差异化模块区域 ===== */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 space-y-10">
+
+        {/* 广告位 - 内容中间 */}
+        <AdBanner slot="home-mid" format="horizontal" />
 
         {/* 模块A: 热门工具排行 */}
         <section>
